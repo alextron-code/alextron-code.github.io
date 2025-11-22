@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhishek’s Cloud Project</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0a0a0a;
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 { font-size: 42px; }
+        p { font-size: 20px; color: #ccc; }
+        .btn {
+            padding: 12px 24px;
+            background: #0066ff;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚀 Abhishek’s Cloud Project 1</h1>
+    <p>Static Website Hosted on AWS S3 + CloudFront</p>
+    <a class="btn" href="#">Learn More</a>
+    <footer>© 2025 Abhishek Mishra | All Rights Reserved</footer>
+</body>
+</html>
